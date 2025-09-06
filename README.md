@@ -8,7 +8,7 @@
 
 A cross-platform desktop application built with Electron, React 19, and the TanStack ecosystem. This modern stack provides a robust foundation for building performant desktop applications with a beautiful UI.
 
-![SampleUI](https://github.com/user-attachments/assets/1c142933-d2f3-4a6d-8f19-f10e6c147a52)
+![SampleUI](/.attachment/Electron-Preview.png)
 
 ## Features
 
@@ -90,6 +90,10 @@ $ pnpm build:linux
 * **Type Checking**: `pnpm typecheck` to run TypeScript type checking
 * **Linting**: `pnpm lint` to lint the codebase
 * **Formatting**: `pnpm format` to format code with Prettier
+
+## NPM Info
+
+* rechars -- This needs to stay at v2 for shadcn/ui's chart object unless you update it manually.
 
 ## Contributing
 

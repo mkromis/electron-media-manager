@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "An Electron application with React ,TypeScript,Tanstack Router",
   "main": "./out/main/index.js",
-  "author": "zietec.io",
+  "author": "Mark Kromis<mkromis@outlook.com>",
   "scripts": {
     "format": "prettier --write .",
     "lint": "eslint --cache .",
